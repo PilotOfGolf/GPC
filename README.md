@@ -7,8 +7,12 @@ This is a project I am starting that is a general-function PCB for education. So
 
 <h3>What is it?</h3>
 GPC is an educational development board, wiht the following features:
-- 2 Stepper Drivers
-- 2 DC Motor Drivers
-- And more!
 
- Right now this project is in development. I am finishing the PCB design, and looking to order a test batch soon. 
+1. 2 Stepper Drivers
+2. 2 DC Motor Drivers
+3. RP2040 Chip
+4. And more!
+
+Right now this project is in development. I am finishing the PCB design, and looking to order a test batch soon. 
+
+The ideal budget for this is $100 per board. This will allow the board to have plenty of functions, and still be high quality. 
